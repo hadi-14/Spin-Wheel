@@ -1,0 +1,18 @@
+/.utmp
+/.vs
+/.vsconfig
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/Assembly-CSharp.Player.csproj
+/Library
+/Logs
+/Meryel.CodeAssist.Editor.csproj
+/obj
+/Spin Wheel.sln
+/SpinWheel_BurstDebugInformation_DoNotShip
+/Temp
+/UpgradeLog.htm
+/UserSettings
+/WheelSpin copy.cs
+/WheelSpin copy.cs.meta
+/WheelSpin.cs
